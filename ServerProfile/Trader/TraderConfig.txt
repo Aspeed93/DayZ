@@ -459,10 +459,10 @@
 		Thermometer,			*,		50,		20
 		DisinfectantSpray,		*,		80,		50
 		//Syringe,				*,		80, 	50
-		StartKitIV,				*,		100,	60
-		SalineBag,				*,		150,	80
-		BloodBagEmpty,			*,		180,	100
-		FirstAidKit,			*,		200,	100
+		StartKitIV,				*,		3500,	1600
+		SalineBag,				*,		7000,	1880
+		BloodBagEmpty,			*,		550,	150
+		FirstAidKit,			*,		1200,	200
 		//Defibrillator,		*,		350, 	200
 			
 	<Category> Препараты
