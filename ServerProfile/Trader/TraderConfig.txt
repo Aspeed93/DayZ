@@ -451,7 +451,7 @@
 		
 	<Category> Медикаменты
 		//Rag,					1,		1,		0
-		Bandaid_bandage,		*,		15,		5
+		Bandaid_bandage,		*,		650,	150
 		BandageDressing,		2,		30,		10
 		elastic_bandage,		*,		35,		12
 		BloodTestKit,			*,		50,		20
