@@ -1,0 +1,95 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: [2020-5-9]--[20-36-24]
+====================================================================================
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding DeleteObjectAtCrosshair to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding TeleportToCrosshair to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding FreeCamera to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:SpawnItem to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:EditPreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:SpawnPreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:DeletePreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:AddPreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuServerManager to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding ServerManager:RestartServer to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding ServerManager:LockServer to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding ServerManager:KickAllPlayers to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding ServerManager:LoadScripts to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuWeatherManager to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:ApplyWeather to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:ApplyTime to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:SavePreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:DeletePreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:ApplyPreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:ApplyTimePreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:SaveTimePreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:DeleteTimePreset to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager:CreateNewSet to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager:UpdateSet to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager:DeleteSet to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager:EditSet to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuPermissionsEditor to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:RemoveUser to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:AddUser to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:CreateUserGroup to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:DeleteUserGroup to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:ChangePermLevel to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding MenuPlayerManager to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:GiveGodmode to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:BanPlayer to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:KickPlayer to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:HealPlayers to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:SetPlayerStats to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:KillPlayers to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:GodMode to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:SpectatePlayer to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:TeleportToPlayer to permission collection.
+[20:36:24]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:TeleportPlayerTo to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:SetPlayerInvisible to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:SendMessage to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:GiveUnlimitedAmmo to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding MenuBansManager to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding BansManager:UnbanPlayer to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding BansManager:UpdateBanDuration to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding BansManager:UpdateBanReason to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding MenuWebHooks to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding MenuWebHooks:Create to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding MenuWebHooks:Edit to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding MenuWebHooks:Delete to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding MenuTeleportManager to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:ViewPlayerPositions to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:TPPlayers to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:TPSelf to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:DeletePreset to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:AddNewPreset to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:EditPreset to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding EspToolsMenu to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding EspToolsMenu:DeleteObjects to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding EspToolsMenu:PlayerESP to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding MenuXMLEditor to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding MenuCommandsConsole to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:StripPlayer to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:KillPlayer to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:HealPlayer to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:BringPlayer to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:ReturnPlayer to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:GotoPlayer to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:UnbanPlayer to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:TeleportToTown to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:TeleportToPoint to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:GiveAmmo to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:SpawnInventory to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:SpawnOnGround to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:SpawnInHands to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:SpawnCar to permission collection.
+[20:36:25]--> [PermissionManager]:: AddPermissionType(): Adding Chat:refuelCar to permission collection.
+[20:36:25]--> [WeatherManager]:: Load(): Creating Default Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+[20:36:25]--> [WeatherManager]:: Save() to $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+[20:36:25]--> [TimeManager]:: Save(): Saving to $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+[20:36:25]--> [PermissionManager]:: Error: File Missing... Creating Defaults. Please change SuperAdmins.txt file, and restart the server.
+[20:36:25]--> [PermissionManager]:: CreateUserGroup(): User Group: Admins Permission Level: 1 created!
+[20:36:25]--> [PermissionManager]:: CreateDefualtUserGroups(): Created defualt UserGroups.vpp
+[20:36:25]--> [VPPItemManager]:: Load(): Creating Default Cache File $profile:VPPAdminTools/ConfigurablePlugins/ItemManager/SavedItemPresets.vpp
+[20:36:25]--> [VPPItemManager]:: Save() to $profile:VPPAdminTools/ConfigurablePlugins/ItemManager/SavedItemPresets.vpp
+[20:36:25]--> [BansManager]:: Save(): Saving ban list!

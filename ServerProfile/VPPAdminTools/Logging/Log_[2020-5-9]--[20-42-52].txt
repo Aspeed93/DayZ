@@ -1,0 +1,382 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: [2020-5-9]--[20-42-52]
+====================================================================================
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding DeleteObjectAtCrosshair to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding TeleportToCrosshair to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding FreeCamera to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:SpawnItem to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:EditPreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:SpawnPreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:DeletePreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuItemManager:AddPreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuServerManager to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding ServerManager:RestartServer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding ServerManager:LockServer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding ServerManager:KickAllPlayers to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding ServerManager:LoadScripts to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuWeatherManager to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:ApplyWeather to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:ApplyTime to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:SavePreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:DeletePreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:ApplyPreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:ApplyTimePreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:SaveTimePreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding WeatherManager:DeleteTimePreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager:CreateNewSet to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager:UpdateSet to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager:DeleteSet to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuObjectManager:EditSet to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuPermissionsEditor to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:RemoveUser to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:AddUser to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:CreateUserGroup to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:DeleteUserGroup to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PermissionsEditor:ChangePermLevel to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuPlayerManager to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:GiveGodmode to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:BanPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:KickPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:HealPlayers to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:SetPlayerStats to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:KillPlayers to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:GodMode to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:SpectatePlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:TeleportToPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:TeleportPlayerTo to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:SetPlayerInvisible to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:SendMessage to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding PlayerManager:GiveUnlimitedAmmo to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuBansManager to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding BansManager:UnbanPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding BansManager:UpdateBanDuration to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding BansManager:UpdateBanReason to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuWebHooks to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuWebHooks:Create to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuWebHooks:Edit to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuWebHooks:Delete to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuTeleportManager to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:ViewPlayerPositions to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:TPPlayers to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:TPSelf to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:DeletePreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:AddNewPreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding TeleportManager:EditPreset to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding EspToolsMenu to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding EspToolsMenu:DeleteObjects to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding EspToolsMenu:PlayerESP to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuXMLEditor to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding MenuCommandsConsole to permission collection.
+[20:42:52]--> Building Sets Loaded: 0
+[20:42:52]--> [PermissionManager]:: LoadSuperAdmins(): Adding Super Admin: 76561198332662225.
+[20:42:52]--> [PermissionManager]:: LoadSuperAdmins(): Adding Super Admin: 76561197983908339.
+[20:42:52]--> [PermissionManager]:: LoadUserGroups(): Loading UserGroups.vpp.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:StripPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:KillPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:HealPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:BringPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:ReturnPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:GotoPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:UnbanPlayer to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:TeleportToTown to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:TeleportToPoint to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:GiveAmmo to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:SpawnInventory to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:SpawnOnGround to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:SpawnInHands to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:SpawnCar to permission collection.
+[20:42:52]--> [PermissionManager]:: AddPermissionType(): Adding Chat:refuelCar to permission collection.
+[20:42:52]--> [WeatherManager]:: Load(): Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+[20:42:52]--> [VPPItemManager]:: Load(): Loading Cache File $profile:VPPAdminTools/ConfigurablePlugins/ItemManager/SavedItemPresets.vpp
+[20:42:52]--> [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+[20:42:52]--> [TimeManager]:: Load(): Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuPlayerManager, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuItemManager, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuTeleportManager, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: EspToolsMenu, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuCommandsConsole, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuServerManager, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuWeatherManager, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuObjectManager, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuBansManager, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuPermissionsEditor, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuWebHooks, Value: true
+[20:48:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuXMLEditor, Value: true
+[20:48:57]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: PlayerManager:GodMode, Value: true
+[20:48:57]--> Player Name[76561198332662225] GUID[Aspeed] just toggled godmode
+[20:49:43]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuServerManager, Value: true
+[20:49:43]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuServerManager, Value: true
+[20:50:3]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuServerManager, Value: true
+[20:50:5]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuServerManager, Value: true
+[20:50:6]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuServerManager, Value: true
+[20:51:0]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuWebHooks, Value: true
+[20:51:25]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuXMLEditor, Value: true
+[20:51:59]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuTeleportManager, Value: true
+[20:51:59]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:0]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:1]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:2]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:3]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:4]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuItemManager, Value: true
+[20:52:4]--> [VPPItemManager]:: Load(): Loading Cache File $profile:VPPAdminTools/ConfigurablePlugins/ItemManager/SavedItemPresets.vpp
+[20:52:4]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:5]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:6]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:7]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:8]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:9]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:10]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:11]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:12]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:13]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:14]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:15]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:16]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:18]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:19]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:20]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:21]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:22]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:23]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:24]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:25]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:26]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:27]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:28]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:29]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:30]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:31]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:32]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:33]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:34]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:35]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:36]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:37]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:38]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:39]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:40]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:41]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:42]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:43]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:44]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:45]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:46]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:47]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:48]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:49]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuItemManager:SpawnItem, Value: true
+[20:52:49]--> Player Name[76561198332662225] GUID[Aspeed] just spawned an object [elastic_bandage]
+[20:52:49]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:51]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:52]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:53]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:55]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:56]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:57]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:58]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:52:59]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:0]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:1]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:2]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:3]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:4]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:5]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:6]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:7]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:8]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:9]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:10]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:11]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:12]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:13]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:14]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:15]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:16]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:17]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:18]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:19]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:20]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:21]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:22]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:23]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:24]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:25]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:26]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:27]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:28]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:29]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:30]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:31]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:33]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:34]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:35]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:36]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:36]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuItemManager, Value: true
+[20:53:36]--> [VPPItemManager]:: Load(): Loading Cache File $profile:VPPAdminTools/ConfigurablePlugins/ItemManager/SavedItemPresets.vpp
+[20:53:37]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:38]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:39]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:40]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:41]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:42]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:43]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:44]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:45]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:46]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:47]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:48]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:49]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:51]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:52]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:53]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:54]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:55]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:56]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:57]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:58]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:53:59]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:0]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:1]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:2]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:3]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:4]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:5]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:6]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:7]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:8]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:9]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuPlayerManager, Value: true
+[20:54:9]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuPlayerManager, Value: true
+[20:54:9]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:10]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:11]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:12]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:13]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:14]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:15]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuPlayerManager, Value: true
+[20:54:16]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:17]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:17]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: PlayerManager:HealPlayers, Value: true
+[20:54:17]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, Target: Self, Permission: PlayerManager:HealPlayers, Value: true
+[20:54:17]--> Player Name[76561198332662225] GUID[Aspeed] healed player [76561198332662225]
+[20:54:18]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:19]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: PlayerManager:HealPlayers, Value: true
+[20:54:19]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, Target: Self, Permission: PlayerManager:HealPlayers, Value: true
+[20:54:19]--> Player Name[76561198332662225] GUID[Aspeed] healed player [76561198332662225]
+[20:54:19]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:20]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:21]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:22]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:23]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:24]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:25]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:26]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:27]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:28]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:29]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:30]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:31]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:32]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:33]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: PlayerManager:SetPlayerStats, Value: true
+[20:54:33]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, Target: Self, Permission: PlayerManager:SetPlayerStats, Value: true
+[20:54:33]--> Player Name[76561198332662225] GUID[Aspeed] just updated a health stat on [76561198332662225]
+[20:54:33]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:34]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:35]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:36]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:37]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:38]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:39]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:39]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: PlayerManager:SetPlayerStats, Value: true
+[20:54:39]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, Target: Self, Permission: PlayerManager:SetPlayerStats, Value: true
+[20:54:39]--> Player Name[76561198332662225] GUID[Aspeed] just updated a health stat on [76561198332662225]
+[20:54:40]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: PlayerManager:SetPlayerStats, Value: true
+[20:54:40]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, Target: Self, Permission: PlayerManager:SetPlayerStats, Value: true
+[20:54:40]--> Player Name[76561198332662225] GUID[Aspeed] just updated a health stat on [76561198332662225]
+[20:54:40]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:41]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:42]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:43]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:44]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:45]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:46]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:47]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:55]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:56]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:57]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:54:58]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:0]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:1]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:2]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:3]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:4]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:5]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:6]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:7]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:8]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuItemManager:SpawnItem, Value: true
+[20:55:8]--> [ItemManager] :: SpawnItem(): [Aspeed : 76561198332662225] Spawned Item elastic_bandage on [Aspeed : 76561198332662225]
+[20:55:8]--> Player Name[76561198332662225] GUID[Aspeed] just spawned an object [elastic_bandage]
+[20:55:8]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:9]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuItemManager:SpawnItem, Value: true
+[20:55:9]--> [ItemManager] :: SpawnItem(): [Aspeed : 76561198332662225] Spawned Item elastic_bandage on [Aspeed : 76561198332662225]
+[20:55:9]--> Player Name[76561198332662225] GUID[Aspeed] just spawned an object [elastic_bandage]
+[20:55:9]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:9]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuItemManager:SpawnItem, Value: true
+[20:55:9]--> [ItemManager] :: SpawnItem(): [Aspeed : 76561198332662225] Spawned Item elastic_bandage on [Aspeed : 76561198332662225]
+[20:55:9]--> Player Name[76561198332662225] GUID[Aspeed] just spawned an object [elastic_bandage]
+[20:55:10]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:29]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:30]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:31]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:32]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:33]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:34]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:35]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:36]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:37]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:38]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:39]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:40]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:41]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:42]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:43]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:44]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:46]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:47]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:48]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:49]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:50]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:51]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:52]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:53]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:54]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:55]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:56]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:57]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:58]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:55:59]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:0]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:1]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:2]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:3]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:4]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:5]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:6]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:7]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:8]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:10]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:11]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:12]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:13]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:14]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:15]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:17]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:18]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:19]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:20]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
+[20:56:20]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: MenuItemManager:SpawnItem, Value: true
+[20:56:20]--> [ItemManager] :: SpawnItem(): [Aspeed : 76561198332662225] Spawned Item Splint on [Aspeed : 76561198332662225]
+[20:56:20]--> Player Name[76561198332662225] GUID[Aspeed] just spawned an object [Splint]
+[20:56:21]--> [PermissionManager]:: VerifyPermission() : Sender ID: 76561198332662225, TargetID: , Permission: TeleportManager:ViewPlayerPositions, Value: true
