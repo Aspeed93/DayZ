@@ -456,23 +456,23 @@
 		elastic_bandage,		*,		850,	230
 		BloodTestKit,			*,		50,		20
 		//InjectionVial,		*,		5, 		2
-		Thermometer,			*,		50,		20
+		Thermometer,			*,		350,	120
 		DisinfectantSpray,		*,		80,		50
 		//Syringe,				*,		80, 	50
-		StartKitIV,				*,		100,	60
-		SalineBag,				*,		150,	80
-		BloodBagEmpty,			*,		180,	100
-		FirstAidKit,			*,		200,	100
+		StartKitIV,				*,		3500,	1600
+		SalineBag,				*,		7000,	1880
+		BloodBagEmpty,			*,		550,	150
+		FirstAidKit,			*,		1200,	200
 		//Defibrillator,		*,		350, 	200
 			
 	<Category> Препараты
-		CharcoalTablets,		*,		120,	30
-		DisinfectantAlcohol,	*,		140,	60
-		VitaminBottle,			*,		160,	80
-		TetracyclineAntibiotics,*,		280,	150
-		PainkillerTablets,		*,		800,	260
-		Epinephrine,			*,		950,	300
-		Morphine,				*,		1050,	450
+		CharcoalTablets,		*,		1120,	300
+		DisinfectantAlcohol,	*,		540,	160
+		VitaminBottle,			*,		2160,	800
+		TetracyclineAntibiotics,*,		5280,	1500
+		PainkillerTablets,		*,		2800,	960
+		Epinephrine,			*,		10950,	4300
+		Morphine,				*,		9050,	2450
 		
 	<Category> Размен
 		MoneyRuble1,			1,		1,		-1
