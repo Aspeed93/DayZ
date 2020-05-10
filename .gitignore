@@ -25,3 +25,5 @@ StartServer.bat
 *.log
 *.ADM
 *.mdmp
+
+types_pretty.json
